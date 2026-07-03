@@ -1,3 +1,7 @@
+# What It Is
+
+This project is a lightweight, local web interface designed to interact with a self-hosted Ollama, think of it a lightweight version of OpenWebUI, but without all the features.
+
 # Minimalist Local Web Stack
 
 A lightweight, transparent web application setup with a clean decoupled frontend, middleware router, and straightforward bash scripts to get up and running locally or over the cloud via a Cloudflare tunnel.
